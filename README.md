@@ -17,6 +17,8 @@ public class Program
 {
     public async Task ExecuteMeAsync()
     {
+        ApiNekoClient _client = new(new HttpClient());
+
         //for more infos about the possible options check https://nekosapi.com/docs/images/random#parameters
         //tag 8 = catgirls
         var images = await _client.ImagesAsync(rating: ["safe"], tag: [8], limit: 3);
