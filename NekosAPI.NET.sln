@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nekos.Fun.NET", "Nekos.Fun.NET\Nekos.Fun.NET.csproj", "{D4EA6587-82C9-4613-A89E-DDC36D8A32A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NekosAPI.NET", "NekosAPI.NET\NekosAPI.NET.csproj", "{D4EA6587-82C9-4613-A89E-DDC36D8A32A8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{72527234-0D4B-4E24-B4D5-229CDAA7E767}"
 	ProjectSection(SolutionItems) = preProject
@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		LICENSE = LICENSE
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NekoV1ClientTest", "NekoV1ClientTest\NekoV1ClientTest.csproj", "{9D0E7220-B5FC-4041-BCD7-A2E6611151EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NekoV3ClientTest", "NekoV3ClientTest\NekoV3ClientTest.csproj", "{9D0E7220-B5FC-4041-BCD7-A2E6611151EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
