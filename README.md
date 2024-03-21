@@ -9,7 +9,9 @@
 supporting v3 API. If you love this repo, consider giving it a star :star:
 
 # :question: How to use
-### Version 3
+## Version 3
+
+###ApiClient
 ```c#
 namespace Hello.There.Nekos;
 
@@ -30,3 +32,5 @@ public class Program
     }
 }
 ```
+
+In addition there are `ImageNekoClient`, `ArtistNekoClient`, `CharacterNekoClient` and `RandomNekoClient`. Just play around with it a bit.
