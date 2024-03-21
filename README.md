@@ -1,4 +1,4 @@
-# :tada: Welcome to `Nekos.Fun.NET` repository
+# :tada: Welcome to `NekosAPI.NET` repository
 [![wakatime](https://wakatime.com/badge/user/17f322c9-222a-48b4-9e15-983c41f7aed4/project/018e56c4-387c-49e7-adbb-0492e1297ae3.svg)](https://wakatime.com/badge/user/17f322c9-222a-48b4-9e15-983c41f7aed4/project/018e56c4-387c-49e7-adbb-0492e1297ae3)
 [![GH_UserCount](https://badgen.net/github/dependents-repo/MarkenJaden/NekosAPI.NET)](https://github.com/MarkenJaden/NekosAPI.NET/network/dependents)
 [![NG_LatestVersion](https://badgen.net/nuget/v/NekosAPI.NET/latest)](https://www.nuget.org/packages/NekosAPI.NET/)
