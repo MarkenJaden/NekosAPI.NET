@@ -11,7 +11,7 @@
 		<RepositoryUrl>https://github.com/MarkenJaden/NekosAPI.NET</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<PackageTags>neko;nekos;cat;anime;nekos.net;nekos.life;nekos-love;nekos.fun;nekosapi;api</PackageTags>
-		<Version>1.1.0</Version>
+		<Version>4.1.0</Version>
 		<PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
 		<PackageLicenseFile>LICENSE</PackageLicenseFile>
         <PackageReadmeFile>README.md</PackageReadmeFile>
